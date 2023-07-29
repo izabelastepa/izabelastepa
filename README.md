@@ -1,4 +1,4 @@
-<p align="left">Hi, I`m Izabela! This repository serves to showcase my skills as a platform to share my projects, and as a way to track my progress in Data Analytics.</p>
+<p align="left">Hi, I`m Izabela! This repository serves to showcase my skills, a platform to share my projects, and as a way to track my progress in Data Analytics.</p>
 
 ###
 
